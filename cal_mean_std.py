@@ -1,7 +1,12 @@
-'''
-use pytorch to calculate the mean and std of image dataset
-'''
+#-*- coding : utf-8 -*-
+# coding: utf-8
 
+'''
+    Author: Xin Wu
+    E-mail: wuxin@icarbonx.com
+    Spe, 2019
+    use pytorch to calculate the mean and std of image dataset
+'''
 import os
 import torch
 from torchvision import datasets, transforms
