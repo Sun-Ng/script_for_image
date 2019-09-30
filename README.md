@@ -6,3 +6,6 @@ some script for image processing
 
 +++ utils.py
 - some function
+
++++ food_data_distribution_train.py / food_data_distribution_train.ipynb
+- statistic food dataset distribution
